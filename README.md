@@ -1,9 +1,11 @@
 
-![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, This is Muhammad Irtiza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan Crafting Digital Dreams with Code and Creativity.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamamdirtiza17" alt="muhamamdirtiza17" /></a> </p>
+
+![GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 - 🔭 I’m currently working at **Aptech Learning**
 
