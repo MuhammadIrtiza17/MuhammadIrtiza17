@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development & Design Projects**
 
-- 💬 Ask me about **JAVASCRIPT, CSS , BOOTSTRAP UI**
+- 💬 Ask me about **JAVASCRIPT, CSS , BOOTSTRAP , UI/UX**
 
 - 📫 How to reach me **muhammad.irtiza2000@gmail.com**
 
